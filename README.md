@@ -3,7 +3,6 @@
 I did have to edit it for my needs, seeing how I am very...picky about things... Haha.
 
 Also, I wanted to see if I can do logging.
-Test Edit for Commits...
 
 ## Motivation
 I didn't find any opensourced HTML5 speedtest so I decided to make one...
